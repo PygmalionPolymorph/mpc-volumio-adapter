@@ -1,3 +1,4 @@
+# OBSOLETE
 # MPC volumio adapter
 This is a small utility to use the command line tools of mpc, when using a volumio server.
 
