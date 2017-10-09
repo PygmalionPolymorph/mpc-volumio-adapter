@@ -1,0 +1,8 @@
+if [ -e /usr/bin/mpc ]
+then
+  echo "ERROR"
+  echo "The file /usr/bin/mpc exists, so we won't overwrite it.."
+  echo "You will have to move or link mpc.js to your PATH manually."
+else
+  ln -s "${PWD}/mpc.js" "/usr/local/bin/mpc"
+fi

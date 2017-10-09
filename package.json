@@ -1,0 +1,15 @@
+{
+  "name": "mpc-volumio-adapter",
+  "version": "1.0.0",
+  "description": "Small utility to mimick mpc command line tools with a volumio server",
+  "main": "mpc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "PygmalionPolymorph",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
