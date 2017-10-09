@@ -7,10 +7,12 @@ So i wrote this small adapter.
 If you somehow should be in the same situation, feel free to use and/or expand or adapt this to your needs.
 
 ## Installation
-Just put the mpc.js into your path named `mpc`, or use the install script as sudo:
+Clone the repo and install the dependencies.
+Then, just put the mpc.js into your path named `mpc`, or use the install script as sudo:
 ```
 git clone https://github.com/PygmalionPolymorph/mpc-volumio-adapter.git
 cd mpc-volumio-adapter
+npm install
 ```
 then
 ```
