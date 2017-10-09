@@ -1,6 +1,7 @@
 # MPC volumio adapter
 This is a small utility to use the command line tools of mpc, when using a volumio server.
-Recently, i switched from mpd to volumio but still hat to use the command line tools to load playlists and start playback.
+
+Recently, i switched from mpd to volumio as a music player but still had to use the command line tools to load playlists and start playback.
 So i wrote this small adapter.
 
 If you somehow should be in the same situation, feel free to use and/or expand or adapt this to your needs.
