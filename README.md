@@ -11,7 +11,14 @@ Just put the mpc.js into your path named `mpc`, or use the install script as sud
 ```
 git clone https://github.com/PygmalionPolymorph/mpc-volumio-adapter.git
 cd mpc-volumio-adapter
+```
+then
+```
 sudo ./install
+```
+or
+```
+sudo ln -s "${PWD}/mpc.js" /usr/local/bin/mpc
 ```
 
 ## Usage
